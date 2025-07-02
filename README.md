@@ -11,6 +11,10 @@ While the dashboard was created alongside the instructor, I focused on truly und
 - ✅ Clean and intuitive user interface
 - ✅ Focused on clear, actionable insights
 
+## 📽️ Demo Video
+
+▶️ [Watch the demo on LinkedIn](https://www.linkedin.com/posts/olha-zahrebelna-536291336_powerbi-dax-dataanalytics-activity-7346152042836508673-Go1B?utm_source=share&utm_medium=member_desktop&rcm=ACoAAFRnGroBbFjIMbZy8u9guEYPdNRJ4BXna4I)
+
 ## 🛠 Tools Used
 
 - Power BI Desktop (Free)
